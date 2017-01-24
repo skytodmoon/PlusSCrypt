@@ -1,5 +1,5 @@
 # libscrypt-swift
-Swift wrapper for libscrypt library: https://github.com/technion/libscrypt
+Swift wrapper for libscrypt library: https://github.com/technion/libscrypt. Happy slow-hashing.
 
 
 ## Usage
