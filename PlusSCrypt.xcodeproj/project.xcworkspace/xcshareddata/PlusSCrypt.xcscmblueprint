@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D444988E581E62A3F32B557F7FB84762863BABF1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "291A29787D9ECEE2594448B7BE3F748224D1E0C6" : 9223372036854775807,
+    "D444988E581E62A3F32B557F7FB84762863BABF1" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "827D1484-299B-415F-A2FD-10A94412D80B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "291A29787D9ECEE2594448B7BE3F748224D1E0C6" : "PlusSCrypt\/libscrypt\/",
+    "D444988E581E62A3F32B557F7FB84762863BABF1" : "PlusSCrypt\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PlusSCrypt",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PlusSCrypt.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/technion\/libscrypt.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "291A29787D9ECEE2594448B7BE3F748224D1E0C6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:matejukmar\/PlusSCrypt.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D444988E581E62A3F32B557F7FB84762863BABF1"
+    }
+  ]
+}
